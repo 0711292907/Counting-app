@@ -8,3 +8,6 @@ function App() {
   const handleClick2 = () => {
     setCounter(counter - 1);
   };
+  const handleClick3 = () => {
+    setCounter(0);
+  };
