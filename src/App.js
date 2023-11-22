@@ -17,3 +17,4 @@ function App() {
     <div className="counter">{counter}</div>
     <button onClick={handleClick1}>Increase</button>
       <button onClick={handleClick2}>Decrease</button>
+      <button onClick={handleClick3}>Reset</button>
