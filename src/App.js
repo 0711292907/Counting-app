@@ -5,3 +5,6 @@ function App() {
   const handleClick1 = () => {
     setCounter(counter + 1);
   }; 
+  const handleClick2 = () => {
+    setCounter(counter - 1);
+  };
