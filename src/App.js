@@ -18,3 +18,8 @@ function App() {
     <button onClick={handleClick1}>Increase</button>
       <button onClick={handleClick2}>Decrease</button>
       <button onClick={handleClick3}>Reset</button>
+      </div>
+      );
+    }
+    
+    export default App;
