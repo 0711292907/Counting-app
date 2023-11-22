@@ -11,3 +11,5 @@ function App() {
   const handleClick3 = () => {
     setCounter(0);
   };
+  return (
+    <div className="App"></div>
