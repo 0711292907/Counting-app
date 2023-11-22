@@ -14,3 +14,4 @@ function App() {
   return (
     <div className="App"></div>
     <h1>Counter App</h1>
+    <div className="counter">{counter}</div>
