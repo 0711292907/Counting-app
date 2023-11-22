@@ -15,3 +15,5 @@ function App() {
     <div className="App"></div>
     <h1>Counter App</h1>
     <div className="counter">{counter}</div>
+    <button onClick={handleClick1}>Increase</button>
+      <button onClick={handleClick2}>Decrease</button>
